@@ -15,3 +15,9 @@ All together I would say I spent between 15 – 20 hours total on this. I made a
 Using Meng To’s from Design+Code Spring Library 
 https://github.com/mengto/spring
 
+
+
+Sean Smith 
+Designer at MileIQ
+seanston.com
+hi@seanston.com
